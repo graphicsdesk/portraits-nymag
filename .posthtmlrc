@@ -10,7 +10,7 @@
         "body": [
           {
             "type": "text",
-            "value": "<i>This article is a collaboration between the Columbia Daily Spectator and New York Magazine. Get unlimited access to New York with a </i><a href=\"https://subs.nymag.com/magazine/subscribe/official-subscription-columbia-university.html?utm_source=partner&utm_medium=article_inline&utm_campaign=columbiaspectator_may2024\"><i>student subscription</i></a><i>.</i>"
+            "value": "<i>This article is a collaboration between the Columbia Daily Spectator and </i><a href=\"https://nymag.com/intelligencer/article/columbia-protests-photos-students-portraits.html\"><i>New York Magazine</i></a><i>. Get unlimited access to New York with a </i><a href=\"https://subs.nymag.com/magazine/subscribe/official-subscription-columbia-university.html?utm_source=partner&utm_medium=article_inline&utm_campaign=columbiaspectator_may2024\"><i>student subscription</i></a><i>.</i>"
           },
           {
             "type": "text",
@@ -37,14 +37,527 @@
             "type": "image",
             "value": {
               "width": "50%",
-              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NDE7OMEMYBAFFAKE3UDKAQHHZM.jpg",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IDF7ZAM5XNAPVMED4A54ZRTC34.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BSESEZXJE5FRPPXORQQBG7HPQI.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7ZXC2EXSQNCXHBPEWFRMCV4TNQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OASJH3LZMRFZDFQ5UZN6PDZI3Q.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4YJOCCLZ2FFDBOJX5LAUPIMPLE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UA6LHAKCIFBIDCGFZLMMRIXXZE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PQOH2DCTAFAFRB2UYUPNIGMXPA.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/L3GG7GNZZFAHLIUNTCFWP3NCGQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/67MNWH34FNHBRK27XJIFL6YQRY.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WUGSBJDW5ZCZLJL54GWG4YPDSU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WK22BBZ2WJFCZHKKMQPGOTWQ4A.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/U3WI43AODVHBVB4YRGIOB4HANQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ST7SI2UGTFGCJIZPMYO4WOPUXU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/J3MWKGLM3ZDZ3ABIYOQ4DCPAJM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7IXWSBX5FNELVBUAAX2DGVNNLU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/T42LHBTNWRFRDL3QVIABRNV5JU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/E7GUB2BE6ZA4RFO3BC4Q7UZUUU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3KTKOIE77BDQNPQ6FNAADG6CJA.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CJV5AKKKWBHJPHGFHKEYYLWSKM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6PXOGRQEOFEL5AS52J7R43X2FY.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/74R56K3S2ZC73FPLL7SAL6PPJU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/H64SEUAUAFB3NHAMXDQFYIMENY.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CW5RGWNAEVFE3JZKYIVD3Z5BIQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YXZYTUMMFNEY5KSSIBPESYWVXM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/P5ITWBXLJVEJFD7Z3ZFTCQNWYI.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4YEI3PREGRAUXORIY6PHI7BH3U.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XGPCOYKT4RGSHNFCI3NSC7VDN4.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZLZJPCY5BNCOBERGCUBVCMIHIU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NTYSHLMHL5DFFGTRGVWPK3O6GE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BQZS4TARLBHVHITE5HLJPYOFYI.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LGXYXX7A3JEVLKPN67K22ZBXHM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/E2U3Z343C5DY7CHQDSEE5QGKYY.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/77BE2IPK45GAXIW4Z47SR3BIOQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XNDMZ62T35GGDBMRTLIKFQV5LQ.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2CPQTMF765HRZB4HKRYPBQ4F3Q.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4TGQRKAMHNH4RLEVFG4F2R2K4Q.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YKYF3DDQGFB4NKZ3GREV5L2FY4.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/J3NYDK66P5AQDLNRRKYCVR5TZE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JNZ77APV25BX5FMFH4XOXHNT5A.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WUICJMVSWVFLZE4WGNVTMYPLAM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3IOXLPQYPRGZXAJDOODVZZK6M4.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UEUN6I3T2BAJVJ3OJUV64FG5HE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y556JBCXD5HJHDTDCJ72J26VTM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/5HAIC7TZF5CGBJRCBKVEK5ITHE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6MJAFENFJVAOJNCUYODXPRKOKI.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DKPVQAOJHBHXZDO5QBSV27FRBY.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Q2ZFXMHAABBEDKNAJETBWFPBXE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VBDC7ZMVLNAPVEFUPXLTOTKRHM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PRZYGAXXZZEFNNH3N4BMOBEBPI.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XWFB3CMJINGRJDR3ND4E6VBDBE.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GNKXMPMW5NC3NEKOUMRY6PEM6Y.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YSBJXHSM5VAKXAVVUNWKNXDDHM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LFGLZZXE6FF7PICAABS7X65BMM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CQP7HL5IVVCT3I4KPNFXHE6IXM.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/J33G2UCYMVC6DE7W6UMPLZLNMA.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HWY43PGVQJFZXKKFM6SCF4FOLU.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/5JLVRCFMCFGVLEB6QQD7XK57KA.jpg",
+              "caption": "",
+              "credit": ""
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PZ3TGJCPWNCVJMASF3J7P6SABU.jpg",
               "caption": "",
               "credit": ""
             }
           },
           {
             "type": "text",
-            "value": "<i>Deputy Photo Editor Gabriella Gregor Splaver can be contacted at </i><a href=\"mailto:gabriella.gregor-splaver@columbiaspectator.com\"><i>gabriella.gregor-splaver@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+            "value": "<i>Deputy Photo Editor Gabriella Gregor Splaver can be contacted at </i><a href=\"mailto:gabriella.gregor-splaver@columbiaspectator.com\"><i>gabriella.gregor-splaver@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/Rainepuff\"><i>@rainepuff</i></a><i>.</i>"
           },
           {
             "type": "text",
